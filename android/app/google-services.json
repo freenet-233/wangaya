@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "135651011928",
+    "firebase_url": "https://wangaya-65348-default-rtdb.firebaseio.com",
+    "project_id": "wangaya-65348",
+    "storage_bucket": "wangaya-65348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135651011928:android:315f0282521ea66b76892d",
+        "android_client_info": {
+          "package_name": "com.example.wangaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_cmUY1jE784VVdbrrc9YsoAU_xcC-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
